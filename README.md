@@ -16,11 +16,9 @@
 
 ## 📊 Projects
 
-## 📊 Projects
-
 ### [Adventure Works Sales Analysis](https://github.com/charan20055/adventure_work_sales_analysis)
-Analyzed Adventure Works sales data to find top products, regions, and revenue trends.
-**Tools:** ( SQL, Power BI, Excel,tableau)
+Analyzed Adventure Works sales data to find top products, regions, and revenue trends, and presented the findings in interactive dashboards.
+**Tools:** Excel, SQL, Tableau, Power BI
 
 
 ## 📫 Get in touch
