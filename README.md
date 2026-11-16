@@ -21,4 +21,4 @@ Coming soon. I'll add my projects here as I upload them.
 ## 📫 Get in touch
 
 - Email: saic51700@gmail.com
-- LinkedIn: add your link here
+- LinkedIn: www.linkedin.com/in/charan333
