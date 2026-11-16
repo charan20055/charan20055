@@ -16,7 +16,12 @@
 
 ## 📊 Projects
 
-Coming soon. I'll add my projects here as I upload them.
+## 📊 Projects
+
+### [Adventure Works Sales Analysis](https://github.com/charan20055/adventure_work_sales_analysis)
+Analyzed Adventure Works sales data to find top products, regions, and revenue trends.
+**Tools:** ( SQL, Power BI, Excel,tableau)
+
 
 ## 📫 Get in touch
 
